@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -26,33 +26,52 @@ projects:
     archived: false
     forks: true
     projects:
-    # - repo-name
+    - Healthcare Claims Adjudication using Machine Learning
+    - Statical Estimation of Data Quality
+    - Unsupervised and Semi-Supervised Anamoly Detection
+    - Document Layout Analysis
+    - Information Extraction
+    - Information Retrieval
 
-# social_media:
+
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: rajat-gupta-72137516
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
-  # twitter: your_username
+  twitter: rajaty6
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
-  - name: Web design
+  - name: Natural Language Processing using Deep Learning and Conventional Methods
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Computer Vision Applications
+  
+  - name: Machine Learning
+    web_url: https://github.com/topics/machine-learning
+
+  - name: PySpark
+    web_url: https://github.com/topics/pyspark
+    
+  - name: Microservices Development 
+
+  - name: Python Full Stack Development 
+
+  - name: FastApi and Flask App Development
+
+  - name: Full Stack and Data Engineering and ML models deployment on Kubenetes / Openshift
+
+  - name: Custom d3.js visualization
+
+  - name: Customization of Open source libraries - Superset, Optimus
